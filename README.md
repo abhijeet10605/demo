@@ -1,3 +1,3 @@
 # demo
  this is demo repo
-author - abhijeet
+author - abhijeet(abhi)
